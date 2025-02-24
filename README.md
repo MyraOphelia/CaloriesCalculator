@@ -1,7 +1,6 @@
 # CaloriesCalculator
  
 <p align="center">
-   <a href="" target="_blank">
     <img src="devices-preview.png" alt="Devices preview" />
   </a>
 </p>
