@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="" target="_blank">
+   <a href="https://calories-in.com" target="_blank">
     <img src="devices-preview.png" alt="Devices preview" />
   </a>
 </p>
@@ -11,8 +11,9 @@
   
 <br />
 
+Live version: https://calories-in.com
 
-YouTube video:  
+Demo video: https://tella.video/calories-in-4onp
 
 </div>
 
