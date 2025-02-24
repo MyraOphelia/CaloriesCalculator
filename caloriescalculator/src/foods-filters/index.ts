@@ -1,5 +1,0 @@
-export { default as useFilterFoods } from './useFilterFoods'
-export * from './foodsFilter'
-export { default as useFoodsFilterStore } from './useFoodsFilterStore'
-export * from './useFoodsFilterStore'
-export { default as FoodsFilterPopoverOrModal } from './FoodsFilterPopoverOrModal'
