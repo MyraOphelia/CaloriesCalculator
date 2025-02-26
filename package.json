@@ -37,7 +37,7 @@
     "react-feather": "^2.0.9",
     "react-hook-form": "7.8.5",
     "react-merge-refs": "^1.1.0",
-    "react-scripts": "4.0.3",
+    "react-scripts": "^5.0.1",
     "react-window": "^1.8.6",
     "scroll-polyfill": "^1.0.1",
     "source-map-explorer": "^2.5.2",
