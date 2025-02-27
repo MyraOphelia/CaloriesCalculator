@@ -1,11 +1,4 @@
-<p align="center">
-   <a href="https://calories-in.com" target="_blank">
-    <img src="devices-preview.png" alt="Devices preview" />
-  </a>
-</p>
-<h1 align="center">Calories-In</h1>
 
-<div align="center">
 
   <h3>A web-based meal plan editor for people who prepare all of their food.</h3>
   
